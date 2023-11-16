@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stamper/static/css/main.fc1db2f5.css",
+    "main.js": "/stamper/static/js/main.2ae37568.js",
+    "static/js/787.4a476baa.chunk.js": "/stamper/static/js/787.4a476baa.chunk.js",
+    "index.html": "/stamper/index.html",
+    "main.fc1db2f5.css.map": "/stamper/static/css/main.fc1db2f5.css.map",
+    "main.2ae37568.js.map": "/stamper/static/js/main.2ae37568.js.map",
+    "787.4a476baa.chunk.js.map": "/stamper/static/js/787.4a476baa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc1db2f5.css",
+    "static/js/main.2ae37568.js"
+  ]
+}
